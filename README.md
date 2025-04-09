@@ -1,1 +1,2 @@
 # FinancialModelling
+This project features a financial model of Vedanta Ltd. built in Excel to assess its investment potential. It applies Discounted Cash Flow (DCF) and Comparable Company Analysis (CCA) for valuation. The model includes sensitivity and risk analysis to evaluate key assumptions. Financial statements were projected and analyzed in detail. The project concludes with a comprehensive investment recommendation report and presentation. Data was sourced from company filings and public financial databases.
